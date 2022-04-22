@@ -18,7 +18,7 @@ plugins {
 }
 
 group = "org.hravemzdy.legalios"
-version = "0.22.2"
+version = "0.22.13"
 
 repositories {
     // Use Maven Central for resolving dependencies.
