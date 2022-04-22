@@ -111,7 +111,7 @@ publishing {
             pom {
                 name.set("kotlin-legalios")
                 description.set("payroll-procezor Salary, Health, Social, Taxing Properties for years 2011-2022")
-                url.set("https://mzdyhrave.github.io/payrolldocs/")
+                url.set("https://hravemzdy.github.io")
                 properties.set(mapOf(
                     "legalios.year.min" to "2011",
                     "legalios.year.max" to "2022",
@@ -127,13 +127,13 @@ publishing {
                     developer {
                         id.set("ladislavlisy")
                         name.set("Ladislav Lisy")
-                        email.set("info@hravemzdy.org")
+                        email.set("greatwork@hravemzdy.org")
                     }
                 }
                 scm {
-                    connection.set("scm:git:git@github.com:mzdyhrave/legalioskotlin.git")
-                    developerConnection.set("scm:git:git@github.com:mzdyhrave/legalioskotlin.git")
-                    url.set("https://mzdyhrave.github.io/payrolldocs/")
+                    connection.set("scm:git:git@github.com:hravemzdy/kotlin-legalios.git")
+                    developerConnection.set("scm:git:git@github.com:hravemzdy/kotlin-legalios.git")
+                    url.set("https://hravemzdy.github.io")
                 }
             }
         }
